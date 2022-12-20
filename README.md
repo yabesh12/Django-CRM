@@ -1,9 +1,9 @@
 ## Django CRM Project - Contact Management Project 
 
-![Image of CRM](/Django-CRM/static/img/sHome.jpg)
-![Image of Sign Up](/Django-CRM/static/img/Signup.jpg)
-![Image of CRM Home](/Django-CRM/static/img/django-crm-home.jpg)
-![Image of Login](/Django-CRM/static/img/login.jpg)
+![Image of CRM](/static/img/sHome.jpg)
+![Image of Sign Up](/static/img/Signup.jpg)
+![Image of CRM Home](/static/img/django-crm-home.jpg)
+![Image of Login](/static/img/login.jpg)
 
 ### Setup
 1. Create a folder and put all the files inside it.
