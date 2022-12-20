@@ -1,12 +1,13 @@
 ## Django CRM Project - Contact Management Project 
 
-![Image of CRM](https://photos.google.com/photo/AF1QipMt3CgSqukiVpwwboP95iuXMV0t0i9cbW2VuPBl)
-![Image of Sign Up](https://photos.google.com/photo/AF1QipPEWpipVGE0FtFCfBv2O4OaBHeuwNuXWekSrBBx)
-![Image of CRM Home](https://photos.google.com/photo/AF1QipMzyA-7Nv8KC0s3ZnkdLnZKfQ8QO5D_xg1xGQDW)
-![Image of Login](https://photos.google.com/photo/AF1QipPqFcsgm3_8shXyUHtuIQeISml-T8ogApdG5daY)
+
 
 ### Setup
-1. Create a folder and put all the files inside it.
+![django-crm-home](https://user-images.githubusercontent.com/64887750/208684015-5576c6ef-7980-46c3-959e-98b86c841391.jpg)
+![Home](https://user-images.githubusercontent.com/64887750/208684026-981f664b-9f2e-4d9a-959a-44c9e49e69b4.jpg)
+![login](https://user-images.githubusercontent.com/64887750/208684031-e2ae5adc-e77e-4eab-b92b-5fcdc92f54bc.jpg)
+![Signup](https://user-images.githubusercontent.com/64887750/208684043-d8197948-ba91-47df-aae4-cf7b449984b5.jpg)
+
 2. Create a virtual environtment - `virtualenv env`
 3. Activate VirtualENV - ubuntu : `source env/bin/activate` || windows : `. .\env\Scripts\activate`
 4. Run requirements.txt - `pip install -r requirements.txt`
