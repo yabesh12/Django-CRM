@@ -1,11 +1,9 @@
-# Django CRM Project - Contact Management Project 
+## Django CRM Project - Contact Management Project 
 
-## Live Demo - http://professionalcipher.pythonanywhere.com/ 
-[Comment on Youtube Video if not working & i will fix it] [Installation Video](https://youtu.be/A6mTN6G-adM)
-
-I am trying to create a Tutorial on How yo Create CRM or Contact Management System in Django. Basically this tutorial is creating while explaining video tutorial. This is the series of Django CRM Tutorial.
-
-![Image of CRM](https://studygyaan.com/wp-content/uploads/2020/02/Django-CRM-Website.jpg)
+![Image of CRM](https://github.com/yabesh12/Django-CRM/blob/master/static/img/Home.jpg "CRM")
+![Image of Sign Up](https://github.com/yabesh12/Django-CRM/blob/master/static/img/Signup.jpg "Sign Up")
+![Image of CRM Home](https://github.com/yabesh12/Django-CRM/blob/master/static/img/django-crm-home.jpg "CRM Home")
+![Image of Login](https://github.com/yabesh12/Django-CRM/blob/master/static/img/login.jpg "Login")
 
 ### Setup
 1. Create a folder and put all the files inside it.
@@ -14,4 +12,7 @@ I am trying to create a Tutorial on How yo Create CRM or Contact Management Syst
 4. Run requirements.txt - `pip install -r requirements.txt`
 5. Run Migrate - `python manage.py migrate`
 6. Run the Application - `python manage.py runserver`
+7. Create a Django-admin user - `python manage.py createsuper`
 
+## To clone the Project
+git clone https://github.com/yabesh12/Django-CRM.git
