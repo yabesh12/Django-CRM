@@ -12,6 +12,6 @@ I am trying to create a Tutorial on How yo Create CRM or Contact Management Syst
 2. Create a virtual environtment - `virtualenv env`
 3. Activate VirtualENV - ubuntu : `source env/bin/activate` || windows : `. .\env\Scripts\activate`
 4. Run requirements.txt - `pip install -r requirements.txt`
-5. Run the Application - `python manage.py runserver`
-6. Migrate
+5. Run Migrate - `python manage.py migrate`
+6. Run the Application - `python manage.py runserver`
 
