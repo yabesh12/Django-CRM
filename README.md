@@ -15,4 +15,4 @@
 7. Create a Django-admin user - `python manage.py createsuper`
 
 ## To clone the Project
-git clone https://github.com/yabesh12/Django-CRM.git
+`git clone https://github.com/yabesh12/Django-CRM.git`
